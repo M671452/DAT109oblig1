@@ -22,7 +22,8 @@ public class Brett {
 		}
 		lastInnFraDatabase();
 	}
-	
+
+	// KOBLING TIL DATABASE ER HER 
 	private void lastInnFraDatabase() {
 		String url = "jdbc:mysql://localhost:3306/stigespill";
 		String bruker = "brukenavn";
